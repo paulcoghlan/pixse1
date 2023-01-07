@@ -2,6 +2,8 @@
 title: France Trip
 date: "2021-06-12"
 type: "gallery"
-cover: bruno-abatti-mEfIhOTH27w-unsplash.jpg
+cover: "(c)-bruno-abatti.jpg"
 tags: ['travel', 'france']
 ---
+
+Lovely sample travel photos from https://unsplash.com.

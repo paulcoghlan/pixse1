@@ -5,3 +5,4 @@ draft: false
 type: "post"
 ---
 
+A sample post-type page!

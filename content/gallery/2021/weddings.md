@@ -6,4 +6,4 @@ type: "collection"
 cover: "images/jeremy-wong-weddings-464ps_nOflw-unsplash.jpg"
 ---
 
-This is the weddings collection
+Lovely sample wedding photos from https://unsplash.com.

@@ -6,4 +6,4 @@ type: "collection"
 cover: "images/jack-ward-rknrvCrfS1k-unsplash.jpg"
 ---
 
-This is the vacations collection.
+Lovely sample travel photos from https://unsplash.com.
