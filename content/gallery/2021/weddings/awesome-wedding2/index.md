@@ -6,4 +6,4 @@ cover: "(c)-dmitry-schemelev.jpg"
 tags: ['wedding']
 ---
 
-Lovely sample wedding photos from https://unsplash.com.
+Lovely sample wedding photos from https://unsplash.com (photographers credited in photo names).

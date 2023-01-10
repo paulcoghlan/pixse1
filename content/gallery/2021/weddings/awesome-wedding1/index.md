@@ -6,4 +6,4 @@ cover: "(c)-nathan-dumlao.jpg"
 tags: ['weddings']
 ---
 
-Lovely sample wedding photos from https://unsplash.com.
+Lovely sample wedding photos from https://unsplash.com (photographers credited in photo names).

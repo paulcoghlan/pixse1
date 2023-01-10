@@ -6,4 +6,4 @@ cover: "(c)-rayyu-maldives.jpg"
 tags: ['travel']
 ---
 
-Lovely sample photos from https://unsplash.com.
+Lovely sample photos from https://unsplash.com (photographers credited in photo names).

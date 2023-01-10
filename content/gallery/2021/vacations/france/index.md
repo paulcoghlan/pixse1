@@ -6,4 +6,4 @@ cover: "(c)-bruno-abatti.jpg"
 tags: ['travel', 'france']
 ---
 
-Lovely sample travel photos from https://unsplash.com.
+Lovely sample travel photos from https://unsplash.com (photographers credited in photo names).  

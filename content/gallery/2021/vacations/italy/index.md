@@ -6,4 +6,4 @@ cover: "(c)-giuseppe-mondi.jpg"
 tags: ['travel', 'italy']
 ---
 
-Lovely sample travel photos from https://unsplash.com.
+Lovely sample travel photos from https://unsplash.com (photographers credited in photo names).
