@@ -13,3 +13,4 @@ type: "post"
 [import tool](https://github.com/paulcoghlan/hugo-gallery).
 - Note this theme isn't intended to be for portfolio or blog sites, it more about making it easy to manage a large number of photo galleries.
 - Gallery component is based on https://www.lightgalleryjs.com/ lightbox and https://miromannino.github.io/Justified-Gallery/ for the layout.
+- Gallery posts may be hidden from navigation with the `browseable: false` property - [example]({{< ref "gallery/personal" >}}).
