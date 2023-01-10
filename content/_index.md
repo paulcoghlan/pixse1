@@ -5,10 +5,11 @@ draft: false
 type: "post"
 ---
 
-# Welcome
+# Hello
 
-This is a sample site for the [hello-photo-friend-theme](https://github.com/paulcoghlan/hugo-theme-hello-friend)
-theme (a fork of the famous [hello-friend-theme](https://github.com/thomasjsn/hugo-theme-hello-friend))
+This is a demo site for a fork of the famous [hello-friend-theme](https://github.com/thomasjsn/hugo-theme-hello-friend)
+theme which adds support for collections of photo galleries.
+Fork is: [here](https://github.com/paulcoghlan/hugo-theme-hello-friend)
 
 ## Recent Galleries
 
