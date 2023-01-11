@@ -16,6 +16,7 @@ type: "post"
 - Note this theme isn't intended to be for portfolio or blog sites, it more about making it easy to manage a large number of photo galleries.
 - Gallery component is based on https://www.lightgalleryjs.com/ lightbox and https://miromannino.github.io/Justified-Gallery/ for the layout.
 - Gallery posts may be hidden from navigation with the `browseable: false` property - [example]({{< ref "gallery/personal" >}}).
+- Galleries have a thumbnail slideshow (click on an image) and a distraction-free presentation mode (icon on heading - for TVs etc).
 
 Inspired by this blog post: https://blog.cavelab.dev/2021/04/photo-gallery-posts/
 
