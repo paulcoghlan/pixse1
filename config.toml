@@ -27,10 +27,13 @@ paginate = 5
   #(default is Description or Summary metadata in the front matter)
   # rssFullText = true
 
+  # Set this globally for all galleries
+  UseRelativeCover = true
+
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
+    title = "Hello (Photo) Friend"
+    subtitle = "A simple photo gallery theme for Hugo"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -46,7 +49,7 @@ paginate = 5
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "hello friend"
+      logoText = "pixse1's Photos"
       logoHomeLink = "/"
     # or
     #
@@ -59,7 +62,7 @@ paginate = 5
         name = "About"
         url = "/about"
       [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+        identifier = "gallery"
+        name = "Collections"
+        url = "/gallery"
         
