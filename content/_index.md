@@ -1,6 +1,6 @@
 ---
 title: "Homepage"
-date: 2022-10-30T18:52:53Z
+date: 2023-06-10T18:52:53Z
 draft: false
 type: "post"
 ---
@@ -8,6 +8,6 @@ type: "post"
 
 {{< galleries limit="5" >}}
 
-# Collections
+# Gallery Collections
 
 {{< collections >}}
