@@ -4,6 +4,9 @@ languageCode = "en-us"
 # Remove it if you use the theme as a remote Hugo Module.
 theme = "hello-friend"
 paginate = 5
+
+
+# contentDir = "content-debug"
 contentDir = "content"
 
 [params]
@@ -33,22 +36,7 @@ contentDir = "content"
 
 [languages]
   [languages.en]
-    title = "Hello (Photo) Friend"
-#    subtitle = "A simple photo gallery theme for Hugo"
-#    keywords = ""
-#    copyright = ""
-#    menuMore = "Show more"
-#    writtenBy = "Written by"
-#    readMore = "Read more"
-#    readOtherPosts = "Read other posts"
-    # newerPosts = "Newer posts"
-    # olderPosts = "Older posts"
-    # minuteReadingTime = "min read"
-    # dateFormatSingle = "2006-01-02"
-    # dateFormatList = "2006-01-02"
-    # leave empty to disable, enter display text to enable
-    # lastModDisplay = ""
-
+    title = "Pixse1's Photo Galleries"
     [languages.en.params.logo]
       logoText = "pixse1's Photos"
       logoHomeLink = "/"
