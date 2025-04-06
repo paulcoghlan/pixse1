@@ -4,6 +4,8 @@ languageCode = "en-us"
 # Remove it if you use the theme as a remote Hugo Module.
 theme = "hello-friend"
 
+# Increase timeout
+timeout = "120s"
 
 # contentDir = "content-debug"
 contentDir = "content"
@@ -32,6 +34,13 @@ contentDir = "content"
 
   # Set this globally for all galleries
   UseRelativeCover = true
+
+[imaging]
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = false
+    excludeFields = ''
+    includeFields = '^(GPS|Make|Model|Title|LensSpec|FocalLength|FNumber|ExposureTime|ISO)$'
 
 [languages]
   [languages.en]
