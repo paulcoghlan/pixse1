@@ -5,3 +5,5 @@ type: "gallery"
 cover: "0Q5A5875.jpg"
 tags: ['birthday', 'lila']
 ---
+
+For Lila's birthday we went to London to see the Musical "Percy Jackson".
