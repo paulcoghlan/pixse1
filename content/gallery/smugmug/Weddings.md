@@ -2,5 +2,5 @@
 title: Weddings
 date: "2017-09-01"
 type: "collection"
-cover: "images/weddings-mr2a6629jpg_36315896803_o.jpg"
+cover: "MR2A2832.jpg"
 ---

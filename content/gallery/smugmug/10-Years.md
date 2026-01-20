@@ -1,6 +1,6 @@
 ---
-title: Pre 2006
+title: 10 Years
 date: "2023-07-04"
 type: "collection"
-cover: "images/pre-2006-Me and Carlos_11638469_o.jpg"
+cover: "MR2A5776jpg_25074931442_o.jpg"
 ---
