@@ -2,5 +2,5 @@
 title: smugmug
 date: "2017-09-01"
 type: "collection"
-cover: "images/smugmug-mr2a6629jpg_36315896803_o.jpg"
+cover: "_MG_0103jpg_9051349635_o.jpg"
 ---

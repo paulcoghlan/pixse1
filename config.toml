@@ -2,7 +2,16 @@ baseurl = "/"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
-theme = "hello-friend"
+theme = "hugo-theme-hello-friend"
+
+[pagination]
+  pagerSize = 5
+
+# Configure Hugo's image processing cache
+[caches]
+  [caches.images]
+    dir = ":resourceDir/_gen"
+    maxAge = -1  # Keep indefinitely (-1 = never expire)
 
 # Increase timeout
 timeout = "120s"
