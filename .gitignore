@@ -4,3 +4,4 @@ resources/
 content/lilaandfreddie/
 **/*.json
 .DS_Store
+/content

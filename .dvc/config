@@ -1,0 +1,5 @@
+[core]
+    remote = gcs
+['remote "gcs"']
+    url = gs://dvc-pixse1
+    credentialpath = /Users/paul/.credentials/pixse1-e3830ffa1fce.json
