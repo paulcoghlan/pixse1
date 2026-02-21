@@ -53,7 +53,7 @@ contentDir = "content"
 
 [languages]
   [languages.en]
-    title = "Pixse1' Photos"
+    title = "Pixse1' Photos Online"
     [languages.en.params.logo]
       logoText = "pixse1's Photos"
       logoHomeLink = "/"
