@@ -28,9 +28,17 @@ tags: ['tag1', 'tag2']
 ---
 ```
 
-- `cover` is a filename in that directory. `date` is YYYY-MM-DD.
+- `cover` is a photo filename in that directory or related sub-directory. See the `### index.md vs _index.md section` to see which directories will be related to that given front matter.  `date` is YYYY-MM-DD. 
 - **Tags:** Use tags from the existing set as suggestions: `aussies`, `beaches`, `birthday`, `camping`, `christmas`, `coffeemachines`, `easter`, `england`, `family`, `festival`, `france`, `freddie`, `friends`, `greece`, `holiday`, `italy`, `kayfest`, `kent`, `lila`, `london`, `misc`, `music`, `newyear`, `pasta`, `pets`, `portugal`, `primary`, `riviera`, `school`, `seaside`, `skiing`, `spain`, `st_lucia`, `uk`, `usa`, `wedding`, `xmas`, `yorkshire`
 - You can ignore the section at `content/lilaandfreddie/`
+
+### index.md vs _index.md
+
+- `index.md` = **leaf bundle**. A single page at the end of a branch; bundles images and other resources; no descendants. Used for each gallery (e.g. `content/gallery/2025/easter/index.md`).
+- `_index.md` = **section / branch bundle**. Marks a directory as a section; provides content for the section list page; may have descendants. Used for `content/_index.md` (home) and `content/gallery/_index.md` (gallery section).
+- Directories under gallery years (e.g. `2025/easter/`) use `index.md`; the gallery section itself uses `_index.md`.
+- With `_index.md`, a directory gets list pages, ancestors, and descendants. Without it, subdirectories are not sections (e.g. `content/gallery/2025/` has no list page unless it contains `_index.md`).
+- See Hugo docs: [Page Bundles](https://gohugo.io/content-management/page-bundles/), [Sections](https://gohugo.io/content-management/sections/).
 
 ## Theme and tooling
 
